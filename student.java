@@ -3,8 +3,8 @@ public class student {
     String name;
 
     student(int id, String name) {
-        id = id;
-        name = name;
+        this.id = id;
+        this.name = name;
     }
 
     void display() {

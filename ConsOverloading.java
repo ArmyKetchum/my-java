@@ -1,7 +1,7 @@
 public class ConsOverloading {
     int a, b, c, d, e;
+
     ConsOverloading() {
-        System.out.println("Default Constructor");
     }
 
     ConsOverloading(int a) {

@@ -1,9 +1,7 @@
 public class ConsOverloading {
     int a, b, c, d, e;
 
-    ConsOverloading() {
-    }
-
+    ConsOverloading() {}
     ConsOverloading(int a) {
         this.a = a;
         System.out.println("Constructor Overloading");

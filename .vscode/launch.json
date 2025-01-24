@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "B",
+            "request": "launch",
+            "mainClass": "mypack.B",
+            "projectName": "my-java_e7ad371b"
+        },
+        {
+            "type": "java",
+            "name": "ConsOverloading",
+            "request": "launch",
+            "mainClass": "ConsOverloading",
+            "projectName": "my-java_e7ad371b"
+        },
+        {
+            "type": "java",
             "name": "ConsOverloading",
             "request": "launch",
             "mainClass": "ConsOverloading",

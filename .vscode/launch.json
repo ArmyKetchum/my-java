@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MulLevInher2",
+            "request": "launch",
+            "mainClass": "MulLevInher2",
+            "projectName": "my-java_16ac9e64"
+        },
+        {
+            "type": "java",
+            "name": "MulLevInher",
+            "request": "launch",
+            "mainClass": "MulLevInher",
+            "projectName": "my-java_16ac9e64"
+        },
+        {
+            "type": "java",
+            "name": "DoWhileDem",
+            "request": "launch",
+            "mainClass": "DoWhileDem",
+            "projectName": "my-java_16ac9e64"
+        },
+        {
+            "type": "java",
+            "name": "sample",
+            "request": "launch",
+            "mainClass": "sample",
+            "projectName": "my-java_16ac9e64"
+        },
+        {
+            "type": "java",
+            "name": "sumofnum",
+            "request": "launch",
+            "mainClass": "sumofnum",
+            "projectName": "my-java_16ac9e64"
+        },
+        {
+            "type": "java",
+            "name": "multiplication",
+            "request": "launch",
+            "mainClass": "multiplication",
+            "projectName": "my-java_16ac9e64"
+        },
+        {
+            "type": "java",
             "name": "B",
             "request": "launch",
             "mainClass": "mypack.B",

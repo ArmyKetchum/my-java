@@ -13,7 +13,7 @@ public class multi {
     }
     public double multiply(double a, int b) {
         return a * b;
-    }
+    } 
     public static void main(String[] args) {
         multi multiplication = new multi();
         int result1= multiplication.multiply(5, 3);
